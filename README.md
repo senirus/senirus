@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Seniru, a passionate Software Engineer Intern from Sri Lanka. Welcome to my GitHub profile! 🚀
+I'm Seniru, a passionate developer. Welcome to my GitHub profile! 🚀
 
 ## About Me
 
