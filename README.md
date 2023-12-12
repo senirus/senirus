@@ -13,7 +13,7 @@ I'm Seniru, a passionate developer. Welcome to my GitHub profile! 🚀
 
 - 💻 Languages: Python, Java, Ruby.
 - 🧰 Tools & Technologies: I'll add soon.... .
-- 🌐 Web: Rails.
+- 🌐 Web: Ruby on Rails.
 - 📱 Mobile: I'll start learning mobile development as soon....
 
 ## Projects
