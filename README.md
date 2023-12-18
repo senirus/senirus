@@ -1,19 +1,6 @@
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
-
 # Hello, World! 👋
 
-I'm Seniru, a passionate developer. Welcome to my GitHub profile! 🚀
+I'm Seniru, a dedicated and passionate computer science undergraduate who excels as a software engineer intern, currently working on a groundbreaking cloud-native telco platform. I possess strong programming skills, staying updated with industry advancements. I'm not only technically proficient but also an excellent communicator, making an asset in technical discussions and team collaborations. I value teamwork and actively fosters a harmonious team dynamic. I'm eager to continue making meaningful contributions to technology development and driving innovation in the industry. Welcome to my GitHub profile! 🚀
 
 ## About Me
 
@@ -24,16 +11,13 @@ I'm Seniru, a passionate developer. Welcome to my GitHub profile! 🚀
 
 ## Tech Stack
 
-- 💻 Languages: Python, Java, Ruby.
-- 🧰 Tools & Technologies: I'll add soon.... .
+- 💻 Languages: Python, Java, Ruby
+- 🧰 Tools & Technologies:
 - 🌐 Web: Ruby on Rails.
-- 📱 Mobile: I'll start learning mobile development as soon....
+- 📱 Mobile: TBA
 
 ## Projects
 
-- 🚀 [Project 1]: Will update soon...
-- 🌐 [Project 2]: Will update soon...
-- 📦 [Project 3]: Will update soon...
 
 ## GitHub Stats
 
@@ -41,9 +25,7 @@ I'm Seniru, a passionate developer. Welcome to my GitHub profile! 🚀
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
-- Website: [Your Personal Website or Blog](https://www.yourwebsite.com)
+- LinkedIn: (https://www.linkedin.com/in/senirus/)
 
 Feel free to explore my repositories and leave a star ⭐️ if you find something interesting!
 
