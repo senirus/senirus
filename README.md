@@ -21,7 +21,7 @@ I'm Seniru, a dedicated and passionate computer science undergraduate who excels
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)](https://github.com/your-username)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=senirus&show_icons=true&count_private=true)](https://github.com/senirus)
 
 ## Connect with Me
 
