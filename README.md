@@ -13,6 +13,7 @@ As an advocate for innovation, I am eager to continue making meaningful contribu
 ## Connect with Me
 
 - LinkedIn: (https://www.linkedin.com/in/senirus/)
+- Instagram: (https://www.instagram.com/seniru_s/)
 
 Feel free to explore my repositories and leave a star ⭐️ if you find something interesting!
 
