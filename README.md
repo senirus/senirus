@@ -10,6 +10,9 @@ As an advocate for innovation, I am eager to continue making meaningful contribu
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=senirus&show_icons=true&count_private=true)](https://github.com/senirus)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
 ## Connect with Me
 
 - LinkedIn: (https://www.linkedin.com/in/senirus/)
