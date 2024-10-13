@@ -1,10 +1,10 @@
 # Welcome to my GitHub space! 🚀
 
-Hello there! 👋 I'm Seniru, a dynamic computer science undergraduate deeply immersed in the world of software engineering. Currently, I'm making waves as an intern, contributing to a groundbreaking cloud-native telco platform. My forte lies in robust programming skills, constantly evolving alongside the latest industry advancements.
+Hello! 👋 I'm Seniru, currently a CS student passionate about software engineering. Currently, I'm a developer working on a cloud-native telco platform. I enjoy solving problems with code and staying up to date with the latest industry trends.
 
-A technically proficient individual, I bring more than code to the table. I am also an adept communicator, making me an invaluable asset in technical discussions and collaborative team environments. I firmly believe in the power of teamwork, actively cultivating a harmonious dynamic within my professional circles.
+I'm also a strong communicator, making collaboration in teams one of my strengths. I'm excited to keep learning and contributing to technology.
 
-As an advocate for innovation, I am eager to continue making meaningful contributions to technology development. Join me on this exciting journey of exploration and innovation on my GitHub profile! 🚀 Let's shape the future of technology together!
+Check out my projects, and let's build the future of tech together! 🚀
 
 ## GitHub Stats
 
